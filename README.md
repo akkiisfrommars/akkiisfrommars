@@ -1,7 +1,10 @@
 Hello there! 👋
 
 I'm akkiisfrommars,
-My current GitHub account is https://github.com/akkii2006
+
+This is my Spam account!
+
+Main GitHub account is https://github.com/akkii2006
 
 
 
